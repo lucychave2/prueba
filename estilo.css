@@ -1,0 +1,20 @@
+@charset "utf-8";
+#content {
+	margin-left: 10vmax;
+}
+#content {
+	margin-top: -8px;
+	height: 48vmax;
+	background-color: rgba(255,255,255,1.00);
+	width: 80vmax;
+}
+#header {
+	margin-top: -45vmax;
+	margin-left: 14vmax;
+	width: 72vmax;
+	font-family: "Lovato Light";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	text-align: justify;
+}
